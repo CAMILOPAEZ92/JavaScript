@@ -1,0 +1,1 @@
+var pesoLuna; var peso = prompt ("ingrese peso"); var gravedadluna = 1.66 ; pesoLuna = peso*gravedadluna/10

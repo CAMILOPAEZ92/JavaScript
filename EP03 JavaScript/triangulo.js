@@ -1,0 +1,1 @@
+var area; var altura = prompt ("ingrese altura del triangulo"); var base = prompt ("ingrese base del triangulo"); area = base * altura / 2

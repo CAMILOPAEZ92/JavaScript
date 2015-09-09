@@ -1,0 +1,1 @@
+var radio = prompt ("ingrese area del circulo"); radio=Math.PI*radio*radio

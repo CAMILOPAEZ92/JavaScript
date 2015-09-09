@@ -1,0 +1,1 @@
+var area; var lado = prompt ("ingrese lado del cuadrado"); area = lado * lado

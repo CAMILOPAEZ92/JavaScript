@@ -1,0 +1,1 @@
+var galones = prompt ("numero de galones"); galones*3.7854
